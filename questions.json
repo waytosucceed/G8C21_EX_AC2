@@ -1,0 +1,135 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "If A ⊆ B and |A| = 15, |B| = 40, what is the minimum possible value of |A ∪ B|?",
+      "options": [
+        "40",
+        "55",
+        "15",
+        "25"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Let L be a set of all even numbers and U be the universal set containing all natural numbers. What is the result of L ∩ U?",
+      "options": [
+        "L",
+        "U",
+        "∅",
+        "L ∪ U"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q3",
+      "question": "If P is a proper subset of Q, then P ∩ Q?",
+      "options": [
+        "Q",
+        "P",
+        "Q x Q",
+        "P x P"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q4",
+      "question": "In a research institute, there are two groups: Quantum Researchers (Q) and Photonics Experts (P). Every Photonics Expert is also a Quantum Researcher, What is P ∪ Q in terms of these two groups?",
+      "options": [
+        "Q",
+        "P",
+        "P ∩ Q",
+        "Cannot be determined"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q5",
+      "question": "The shaded region in the below Venn diagram represents<br><img width='70%' src='./assests/images/1.png'>",
+      "options": [
+        "A ∩ B",
+        "A ∪ B’",
+        "A’ ∩ B",
+        "A’ ∩ B’"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q6",
+      "question": "The shaded region in the below Venn diagram represents<br><img width='70%' src='./assests/images/2.png'>",
+      "options": [
+        "A ∩ B",
+        "A ∪ B’",
+        "A’ ∩ B",
+        "A’ ∩ B’"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q7",
+      "question": "The shaded region in the below Venn diagram represents<br><img width='70%' src='./assests/images/3.png'>",
+      "options": [
+        "A ∩ B",
+        "A ∪ B",
+        "A’ ∩ B",
+        "A’ ∩ B’"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q8",
+      "question": "In a research institute, there are 45 scholars. Among them, 14 prefer reading books but not watching documentaries. If 5 more scholars originally only watched documentaries also start reading books, then 17 scholars would be engaging in reading books and watching documentaries. How many scholars do not prefer reading books initially?",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q9",
+      "question": "In a university, 60 students are surveyed about their preference for two subjects: It was found that 18 students preferred only Mathematics. Initially, some students preferred both subjects. Later, 7 students who originally preferred only Physics also started liking Mathematics, now the number of students preferring both subjects to 22. How many students do not prefer Mathematics initially?",
+      "options": [
+        "24",
+        "26",
+        "27",
+        "30"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q10",
+      "question": "In a science academy, there are 50 researchers. Among them, 16 researchers prefer conducting field experiments but do not engage in lab simulations. Later, 7 more researchers, who originally only conducted lab simulations, also started participating in field experiments. As a result, 20 researchers are now involved in both field experiments and lab simulations. How many researchers initially engaged only in lab simulations?",
+      "options": [
+        "21",
+        "26",
+        "27",
+        "30"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q11",
+      "question": "In a university, there are three research groups: X, Y, and Z. Every member of Z is also a member of both X and Y. Group Z has 12 members. Additionally, 6 researchers are in both X and Y but are not part of Z. The total number of researchers in X and Y is 50. How many researchers belong to exactly one of these two groups (X or Y but not both)?",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q12",
+      "question": "In a school, there are three student clubs: Music, Dance, and Drama. Every member of Drama is also a member of both Music and Dance. The Drama club has 15 members. Additionally, 10 students are in both Music and Dance but are not part of Drama. The total number of students in either Music or Dance is 60. How many students belong to exactly one of these two clubs (Music or Dance, but not both)?",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "correct": 1
+    }
+  ]
+  
